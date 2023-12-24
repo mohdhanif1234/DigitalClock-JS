@@ -1,1 +1,1 @@
-# DigitalClock-JS
+# DigitalClock is a pure JS application which shows current date and time with time updating every second
